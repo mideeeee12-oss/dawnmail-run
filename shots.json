@@ -1,0 +1,11 @@
+{
+  "out_dir": "screenshots",
+  "width": 1280,
+  "height": 800,
+  "shots": [
+    { "name": "1-cover.jpg", "url": "index.html?shot=cover" },
+    { "name": "2-title.jpg", "url": "index.html?shot=title" },
+    { "name": "3-play.jpg", "url": "index.html?shot=play" },
+    { "name": "4-end.jpg", "url": "index.html?shot=end" }
+  ]
+}
